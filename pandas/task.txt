@@ -1,0 +1,27 @@
+##PANDAS
+pandas datastructure
+-series
+-dataframe
+-pannel
+
+creating series and dataframe
+(numpy, dict, scalar)
+dataframe form list(ndarray,dict,scalar)
+creat a dataframe from dict of nd arrays and list
+how to read and write files using pandas
+how to read .csv file
+.head
+.tail
+.describe
+.dtypes
+.astype
+how to select rows 
+how to select colums
+how to filter data
+manupulating
+renaming , deleting rows and coloums, dealing with missing values, 
+finding null values
+drop missing values
+replacing missing values
+statical operations( count, sum, min, median,max etc)
+usefull functions of pandas

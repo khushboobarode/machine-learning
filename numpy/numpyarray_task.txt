@@ -1,0 +1,33 @@
+creating a vector( 1 d array) 
+creating a matrix( 2d array)
+applying operation to elements
+finding the max and the minimum value
+calculating avarage,
+geting the digonal of the matrix
+generating random values
+adding, subtracting, and multiplying matrix
+calculating dot productes
+calculating the trase of the matrix
+inverting a matix
+
+reshaping array
+transposing a vector or a matrix
+
+
+sparse matrix
+selecting elements
+describing a matrix
+variance and standard deviation
+finding the determinant and rank of the matrix
+
+finding eigen values and eigen vectors
+
+
+
+
+
+
+
+
+
+
